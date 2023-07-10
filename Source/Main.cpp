@@ -170,7 +170,7 @@ bool WriteGSC(const fs::path& path)
     //
     file << "map_setup()\n"
         << "{\n"
-        << "    mapame = toLower(level.mapname);\n"
+        << "    mapname = toLower(level.mapname);\n"
         << "    switch(mapname) {\n";
 
     for (const auto& map : g_maps) {
