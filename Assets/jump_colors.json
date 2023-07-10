@@ -1,0 +1,14 @@
+{
+  "map": {
+    "name": "jump_colors"
+  },
+  "timelimit": 10,
+  "difficulty": "medium",
+  "ladderjumps": [
+    {
+      "from": [-159, 1598, -159],
+      "to": [-159, 1075, -319],
+      "angles": [0, -90, 0]
+    }
+  ]
+}

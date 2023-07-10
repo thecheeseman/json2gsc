@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "nm_mansion",
+    "title": "Mansion",
+    "author": "Nightmare"
+  },
+  "timelimit": 6,
+  "difficulty": "medium"
+}

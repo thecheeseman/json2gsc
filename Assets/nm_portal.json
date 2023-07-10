@@ -1,0 +1,15 @@
+{
+  "map": {
+    "name": "nm_portal",
+    "title": "Portal",
+    "author": "Nightmare"
+  },
+  "timelimit": 15,
+  "difficulty": "medium",
+  "healspots": [
+    [2360, 2686, 1152]
+  ],
+  "grenadespots": [
+    [2901, 2683, 1152]
+  ]
+}

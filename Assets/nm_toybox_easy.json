@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "nm_toybox_easy",
+    "title": "Toybox (Easy)",
+    "author": "Nightmare"
+  },
+  "timelimit": 12,
+  "difficulty": "easy"
+}

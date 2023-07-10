@@ -1,0 +1,14 @@
+{
+  "map": {
+    "name": "jm_fear"
+  },
+  "timelimit": 15,
+  "difficulty": "hard",
+  "ladderjumps": [
+    {
+      "from": [3884, 800, 1408],
+      "to": [3884, 1030, 800],
+      "angles": [0, 90, 0]
+    }
+  ]
+}

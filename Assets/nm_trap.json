@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "nm_trap",
+    "title": "Trap",
+    "author": "Nightmare"
+  },
+  "timelimit": 20,
+  "difficulty": "medium"
+}

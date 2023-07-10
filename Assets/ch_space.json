@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "ch_space",
+    "title": "Space",
+    "author": "thecheeseman"
+  },
+  "timelimit": 20,
+  "difficulty": "medium"
+}

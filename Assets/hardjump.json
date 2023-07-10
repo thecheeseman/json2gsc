@@ -1,0 +1,15 @@
+{
+  "map": {
+    "name": "hardjump"
+  },
+  "timelimit": 20,
+  "difficulty": "expert",
+  "ladderjumps": [
+    {
+      "from": [-1903, -3787, -195],
+      "to": [-1937, -3789, -1231],
+      "angles": [0, -180, 0],
+      "distance": 36
+    }
+  ]
+}

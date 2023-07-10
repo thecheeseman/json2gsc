@@ -1,0 +1,17 @@
+{
+  "map": {
+    "name": "nm_jump",
+    "title": "Jump",
+    "author": "Nightmare"
+  },
+  "timelimit": 6,
+  "difficulty": "easy",
+  "ladderjumps": [
+    {
+      "from": [-1129, -548, -2455],
+      "to": [-1187, 242, -2367],
+      "angles": [0, -180, 0],
+      "distance": 64
+    }
+  ]
+}

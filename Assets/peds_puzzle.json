@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "peds_puzzle",
+    "title": "Puzzle",
+    "author": "Pedsdude"
+  },
+  "timelimit": 12,
+  "difficulty": "easy"
+}

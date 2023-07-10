@@ -1,0 +1,14 @@
+{
+  "map": {
+    "name": "jm_skysv4c"
+  },
+  "timelimit": 12,
+  "difficulty": "easy",
+  "ladderjumps": [
+    {
+      "from": [1488, 238, 1628],
+      "to": [3357, 257, 8],
+      "distance": 96
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "nm_tower",
+    "title": "Tower",
+    "author": "Nightmare"
+  },
+  "timelimit": 7,
+  "difficulty": "easy"
+}

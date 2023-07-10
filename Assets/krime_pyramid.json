@@ -1,0 +1,10 @@
+{
+  "map": {
+    "name": "krime_pyramid"
+  },
+  "timelimit": 20,
+  "difficulty": "hard",
+  "healspots": [
+    [-1169, 1799, 459]
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "map": {
+    "name": "svb_sewer",
+    "title": "Sewer",
+    "author": "sKratchVanderBooth"
+  },
+  "timelimit": 15,
+  "difficulty": "medium",
+  "ladderjumps": [
+    {
+      "from": [-5750, -356, -41],
+      "to": [-4083, -359, -195],
+      "distance": 36
+    }
+  ],
+  "healspots": [
+    [-2736, 15, -57]
+  ],
+  "grenadespots": [
+    [-2979, -343, -195],
+    [-2901, 9, -135]
+  ]
+}

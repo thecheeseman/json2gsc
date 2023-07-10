@@ -1,0 +1,13 @@
+{
+  "map": {
+    "name": "double_vision"
+  },
+  "timelimit": 8,
+  "difficulty": "easy",
+  "healspots": [
+    [137, -1245, 215]
+  ],
+  "grenadespots": [
+    [102, -991, -18]
+  ]
+}

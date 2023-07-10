@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "peds_pace",
+    "title": "Pace",
+    "author": "Pedsdude"
+  },
+  "timelimit": 8,
+  "difficulty": "easy"
+}

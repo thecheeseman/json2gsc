@@ -1,0 +1,26 @@
+{
+  "map": {
+    "name": "nev_jumpfacility",
+    "title": "Jump Facility",
+    "author": "Nevander"
+  },
+  "timelimit": 20,
+  "difficulty": "medium",
+  "ladderjumps": [
+    {
+      "from": [2240, 432, 2078],
+      "to": [2667, 417, 2256],
+      "angles": [0, 90, 0]
+    }
+  ],
+  "healspots": [
+    [410, -222, 1224],
+    [-411, -848, 1328],
+    [1513, 1060, 2656]
+  ],
+  "grenadespots": [
+    [276, -32, 944],
+    [326, -857, 1336],
+    [1683, 747, 2576]
+  ]
+}

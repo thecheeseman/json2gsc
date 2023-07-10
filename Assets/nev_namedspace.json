@@ -1,0 +1,15 @@
+{
+  "map": {
+    "name": "nev_namedspace",
+    "title": "Named Space",
+    "author": "Nevander"
+  },
+  "timelimit": 30,
+  "difficulty": "medium",
+  "healspots": [
+    [6055, 95, 588]
+  ],
+  "grenadespots": [
+    [5805, 649, 16]
+  ]
+}

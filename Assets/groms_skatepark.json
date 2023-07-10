@@ -1,0 +1,14 @@
+{
+  "map": {
+    "name": "groms_skatepark"
+  },
+  "timelimit": 12,
+  "difficulty": "medium",
+  "ladderjumps": [
+    {
+      "from": [1366, 82, 448],
+      "to": [1206, -68, 664],
+      "angles": [0, -90, 0]
+    }
+  ]
+}

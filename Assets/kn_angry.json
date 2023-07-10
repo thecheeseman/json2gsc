@@ -1,0 +1,13 @@
+{
+  "map": {
+    "name": "kn_angry"
+  },
+  "timelimit": 20,
+  "difficulty": "hard",
+  "healspots": [
+    [960, 31, 1040]
+  ],
+  "grenadespots": [
+    [966, 434, 976]
+  ]
+}

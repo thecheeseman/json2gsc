@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "svb_rage",
+    "title": "Rage",
+    "author": "sKratchVanderBooth"
+  },
+  "timelimit": 30,
+  "difficulty": "medium"
+}

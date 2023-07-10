@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "gg_heaven",
+    "title": "Heaven",
+    "author": "TheGoog"
+  },
+  "timelimit": 30,
+  "difficulty": "hard"
+}

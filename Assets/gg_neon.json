@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "gg_neon",
+    "title": "Neon (V1)",
+    "author": "TheGoog"
+  },
+  "timelimit": 30,
+  "difficulty": "hard"
+}

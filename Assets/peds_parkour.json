@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "peds_parkour",
+    "title": "Parkour",
+    "author": "Pedsdude"
+  },
+  "timelimit": 15,
+  "difficulty": "medium"
+}

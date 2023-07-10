@@ -1,0 +1,20 @@
+{
+  "map": {
+    "name": "skratch_easy_v2",
+    "title": "sKratch Easy (V2)",
+    "author": "sKratchVanderBooth"
+  },
+  "timelimit": 15,
+  "difficulty": "easy",
+  "ladderjumps": [
+    {
+      "from": [-762, 248, 2754],
+      "to": [-761, 664, 2648],
+      "angles": [0, 90, 0]
+    },
+    {
+      "from": [4590, 508, 1970],
+      "to": [5416, 508, 2328]
+    }
+  ]
+}

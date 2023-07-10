@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "zh_mirage",
+    "title": "Mirage",
+    "author": "Zilch"
+  },
+  "timelimit": 30,
+  "difficulty": "hard"
+}

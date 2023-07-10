@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "ch_quickie",
+    "title": "Quickie",
+    "author": "thecheeseman"
+  },
+  "timelimit": 20,
+  "difficulty": "hard"
+}

@@ -1,0 +1,16 @@
+{
+  "map": {
+    "name": "nm_castle",
+    "title": "Castle",
+    "author": "Nightmare"
+  },
+  "timelimit": 12,
+  "difficulty": "easy",
+  "ladderjumps": [
+    {
+      "from": [33, -424, -623],
+      "to": [64, 1537, 960],
+      "angles": [0, -90, 0]
+    }
+  ]
+}

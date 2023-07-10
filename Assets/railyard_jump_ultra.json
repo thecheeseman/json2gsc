@@ -1,0 +1,14 @@
+{
+  "map": {
+    "name": "railyard_jump_ultra"
+  },
+  "timelimit": 15,
+  "difficulty": "expert",
+  "ladderjumps": [
+    {
+      "from": [-1879, 680, 0],
+      "to": [-1874, 2223, 1205],
+      "angles": [0, -90, 0]
+    }
+  ]
+}

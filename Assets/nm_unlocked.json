@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "nm_unlocked",
+    "title": "Unlocked",
+    "author": "Nightmare"
+  },
+  "timelimit": 15,
+  "difficulty": "easy"
+}

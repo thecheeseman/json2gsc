@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "svb_marathon",
+    "title": "Marathon",
+    "author": "sKratchVanderBooth"
+  },
+  "timelimit": 15,
+  "difficulty": "medium"
+}

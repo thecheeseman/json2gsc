@@ -1,0 +1,15 @@
+{
+  "map": {
+    "name": "fm_squishydeath_hard"
+  },
+  "timelimit": 20,
+  "difficulty": "hard",
+  "ladderjumps": [
+    {
+      "from": [-2110, 2480, -1534],
+      "to": [-2050, 1905, -1727],
+      "angles": [0, -90, 0],
+      "distance": 36
+    }
+  ]
+}

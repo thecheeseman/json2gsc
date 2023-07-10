@@ -1,0 +1,16 @@
+{
+  "map": {
+    "name": "cls_industries"
+  },
+  "timelimit": 20,
+  "difficulty": "medium",
+  "healspots": [
+    [2464, 433, -967],
+    [592, 626, -1383],
+    [345, 460, -1218]
+  ],
+  "grenadespots": [
+    [2595, 402, -1014],
+    [694, 625, -1463]
+  ]
+}

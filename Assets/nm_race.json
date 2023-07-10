@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "nm_race",
+    "title": "Race",
+    "author": "Nightmare"
+  },
+  "timelimit": 10,
+  "difficulty": "easy"
+}

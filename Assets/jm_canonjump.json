@@ -1,0 +1,13 @@
+{
+  "map": {
+    "name": "jm_canonjump"
+  },
+  "timelimit": 15,
+  "difficulty": "medium",
+  "ladderjumps": [
+    {
+      "from": [-4014, -899, -4383],
+      "to": [-3524, -891, -4415]
+    }
+  ]
+}

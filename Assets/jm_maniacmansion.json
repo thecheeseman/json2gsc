@@ -1,0 +1,13 @@
+{
+  "map": {
+    "name": "jm_maniacmansion"
+  },
+  "timelimit": 20,
+  "difficulty": "hard",
+  "healspots": [
+    [2076, 1144, -113]
+  ],
+  "grenadespots": [
+    [1705, 1138, -113]
+  ]
+}

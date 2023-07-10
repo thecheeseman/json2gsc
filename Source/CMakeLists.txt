@@ -19,6 +19,13 @@ set_target_properties(json2gsc PROPERTIES
 add_custom_command(
     TARGET json2gsc
     POST_BUILD
+    COMMENT "Copy Assets to Build dir"
+    COMMAND ${CMAKE_COMMAND} -E copy_directory "${CMAKE_SOURCE_DIR}/Assets" $<TARGET_FILE_DIR:json2gsc>/mapconfigs
+)
+
+add_custom_command(
+    TARGET json2gsc
+    POST_BUILD
     COMMENT "Generate sha512 checksum for json2gsc"
     WORKING_DIRECTORY $<TARGET_FILE_DIR:json2gsc>
     COMMAND ${CMAKE_COMMAND} -E sha512sum $<TARGET_FILE_NAME:json2gsc> > $<TARGET_FILE_NAME:json2gsc>.sha512

@@ -1,0 +1,9 @@
+{
+  "map": {
+    "name": "zh_pulse",
+    "title": "Pulse",
+    "author": "Zilch"
+  },
+  "timelimit": 30,
+  "difficulty": "hard"
+}
