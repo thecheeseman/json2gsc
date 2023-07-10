@@ -1,32 +1,35 @@
-# Prerequisites
-*.d
+# SPDX-FileCopyrightText: 2023 thecheeseman
+#
+# SPDX-License-Identifier: CC0-1.0
 
-# Compiled Object files
-*.slo
-*.lo
+# Generated files
+*.d
 *.o
 *.obj
-
-# Precompiled Headers
+*.elf
+*.map
+*.exp
 *.gch
 *.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
-*.lib
+*.so
+*.so.*
 
-# Executables
-*.exe
-*.out
-*.app
+# Visual Studio / VSCode files
+.vs/
+.vscode/
+*.code-workspace
+compile_commands.json
+
+# output
+build/
+
+Doxyfile
+Doxyfile.bak
+
+# ignore sqlite/curl headers
+# these are only stored locally because visual studo is stupid
+# and does not want to give intellisense for sqlite/curl
+include/sqlite3.h
+include/sqlite3ext.h
+include/curl

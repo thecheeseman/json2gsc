@@ -1,0 +1,6 @@
+[submodule "ThirdParty/json"]
+	path = ThirdParty/json
+	url = https://github.com/nlohmann/json
+[submodule "ThirdParty/argh"]
+	path = ThirdParty/argh
+	url = https://github.com/adishavit/argh
