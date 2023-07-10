@@ -28,6 +28,18 @@ by default [input folder] = "mapconfigs"
 $ json2gsc cfgs my_settings.gsc
 ```
 
+## Build
+
+```bash
+git clone --recurse-submodules https://github.com/thecheeseman/json2gsc
+
+cd json2gsc
+mkdir Build
+
+cmake . -B Build
+cmake --build Build
+```
+
 ## Example
 
 For example, the file `jm_pillz.json`
