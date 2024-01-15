@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 thecheeseman
+//
+// SPDX-License-Identifier: BSD-3-Clause
+
 #include <argh.h>
 #include <filesystem>
 #include <fstream>
