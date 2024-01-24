@@ -3,5 +3,13 @@
     "name": "jm_speed"
   },
   "timelimit": 15,
-  "difficulty": "medium"
+  "difficulty": "medium",
+  "disablesavespots": [
+    [-166, 400, 70, 90, 448, 200],
+    [-324, 1000, 70, -244, 1048, 200]	
+  ],
+  "enablesavespots": [
+    [-166, 326, 70, 90, 378, 200],
+    [-324, 1068, 70, -244, 1116, 200]	
+  ]
 }

@@ -60,6 +60,12 @@ For example, the file `jm_pillz.json`
   ],
   "panzerspots": [
     [983, -527, -303]
+  ],
+  "disablesavespots": [
+    [-166, 400, 70, 90, 448, 200]
+  ],
+  "enablesavespots": [
+    [90, 378, 70, -166, 326, 200]
   ]
 }
 ```
@@ -87,6 +93,10 @@ map_setup()
             healspots[1] = (880, -1034, -195);
             grenadespots[0] = (-1084, 286, -207);
             panzerspots[0] = (983, -527, -303);
+            save_disable_aabb[0][0] = (-166, 400, 70);
+            save_disable_aabb[0][1] = (90, 448, 200);
+            save_enable_aabb[0][0] = (-166, 326, 70);
+            save_enable_aabb[0][1] = (90, 378, 200);
         break;
         // ...
     }
@@ -101,7 +111,13 @@ map_setup()
         level.mapsettings["grenadespots"] = grenadespots;
     if(isDefined(panzerspots))
         level.mapsettings["panzerspots"] = panzerspots;
+    if(isDefined(save_disable_aabb))
+        level.mapsettings["save_disable_aabb"] = save_disable_aabb;
+    if(isDefined(save_enable_aabb))
+        level.mapsettings["save_enable_aabb"] = save_enable_aabb;
 
     thread maps\mp\gametypes\jmp::mapfixes();
 }
 ```
+
+The AABB vertices that define save enable/disable areas will also be redefined if needed so the first vetex is closest to the origin and the second one is the farthest.
